@@ -1,0 +1,53 @@
+linear regression
+mean R2: -1.49 (+/- 3.79)
+MSE: 92.48
+
+feature selection on linear regression
+R2: -1.41 (+/- 3.83)
+MSE: 90.43
+
+ridge regression
+mean R2: -1.47 (+/- 3.76)
+MSE: 92.76
+
+feature selection ridge regression
+R2: -1.40 (+/- 3.81)
+MSE: 90.33
+
+lasso regression
+mean R2: -1.46 (+/- 3.69)
+MSE: 93.82
+
+feature selection on lasso regression
+R2: -1.37 (+/- 3.60)
+MSE: 91.30
+
+decision tree regression
+mean R2: -4.79 (+/- 7.79)
+MSE: 175.47
+
+
+feature selection on decision tree
+R2: -4.51 (+/- 6.72)
+MSE: 172.89
+
+random forest regression
+mean R2: -1.85 (+/- 4.01)
+MSE: 101.73
+
+feature selection on random forest
+R2: -1.67 (+/- 3.70)
+MSE: 101.62
+
+
+linear support vector machine
+mean R2: -1.19 (+/- 2.67)
+MSE: 92.05
+
+feature selection on linear support vector machine
+R2: -1.05 (+/- 2.21)
+MSE: 92.32
+
+
+
+
