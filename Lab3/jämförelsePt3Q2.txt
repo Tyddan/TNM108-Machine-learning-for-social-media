@@ -36,13 +36,12 @@ mean R2: -1.85 (+/- 4.01)
 MSE: 101.73
 
 feature selection on random forest
-R2: -1.67 (+/- 3.70)
+R2: -1.69 (+/- 3.51)
 MSE: 101.62
 
-
 linear support vector machine
-mean R2: -1.19 (+/- 2.67)
-MSE: 92.05
+mean R2: -1.07 (+/- 2.23)
+MSE: 92.32
 
 feature selection on linear support vector machine
 R2: -1.05 (+/- 2.21)
